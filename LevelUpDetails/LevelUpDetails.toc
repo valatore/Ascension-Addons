@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: LevelUpDetails
+## Author: Valatore
+## Version: 0.1.0
+## Notes: This addon shows you what stats you gained in your chatbox when you level up. This was created as a test to learn Lua.
+
+LevelUpDetails.lua
